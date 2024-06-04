@@ -1,3 +1,4 @@
+# This problem is done using hashing technique
 def missingNumber(array,n):
         # create a list of zeroes
     temp = [0] * (n)
@@ -15,5 +16,6 @@ array = [1, 2, 3, 5]
 n = 5
 
    
-print(missingNumber(array, n))   
+print(missingNumber(array, n)) 
+  
     
